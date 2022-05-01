@@ -1,0 +1,9 @@
+<h1 align="center">Konichiwa, NotYourDoraemon This Side!</h1>
+<h3 align="center">A Web Developer.</h3>
+
+- 👀 He/Him...
+- 🌱 I watch anime...
+- 💞️ 18th April is my birthday...
+- 📫 You can contact me on my [Instagram](https://instagram.com/notyourdoraemon) / Discord@`NotYourDoraemon 🥀#0235`
+
+<h3 align="left">Nothing Else To See Here Eh 👀</h3>
