@@ -1,4 +1,4 @@
-<h1 align="center">Konichiwa, NotYourDoraemon This Side!</h1>
+<h1 align="center">Konnichiwa 👋, NotYourDoraemon This Side!</h1>
 <h3 align="center">Another Developer Here.</h3>
 
 - 👀 He/Him...
@@ -6,6 +6,6 @@
 - 💀 I do study as well...
 - 🌱 I watch anime...
 - 💞️ 18th April is my birthday...
-- 📫 You can contact me on my [Instagram](https://instagram.com/notyourdoraemon) / Discord@`NotYourDoraemon#2073`
+- 📫 You can contact me on my [Instagram](https://instagram.com/notyourdoraemon) / Discord@`notyourdoraemon`
 
 <h3 align="left">Nothing Else To See Here Eh 👀</h3>
